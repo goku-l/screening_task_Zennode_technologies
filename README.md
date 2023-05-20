@@ -24,8 +24,8 @@ The program will ask the quantity of each product. Same time, program will ask i
 
 Then the program will show / output below details.
 
-1.The product name, quantity & total amount of that product.
-2.Subtotal
-3.The discount name applied & the discount amount.
-4.The shipping fee & the gift wrap fee.
-5.Total
+The product name, quantity & total amount of that product.
+Subtotal
+The discount name applied & the discount amount.
+The shipping fee & the gift wrap fee.
+Total
